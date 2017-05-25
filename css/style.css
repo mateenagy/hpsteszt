@@ -112,9 +112,7 @@ a:hover {
   text-decoration: none !important; }
 
 .q-cont {
-  padding: 40px 0; }
-  .q-cont span {
-    border-right: 1px dashed #fff; }
+  padding: 40px 0px; }
   .q-cont:hover img {
     animation-name: example;
     animation-duration: 1s;

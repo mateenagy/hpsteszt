@@ -1,0 +1,1 @@
+HPS Group teszt feladat

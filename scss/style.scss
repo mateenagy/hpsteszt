@@ -1,5 +1,4 @@
 // Imports
-
 @import "variables";
 
 // Animation
@@ -146,11 +145,7 @@ a:hover{
 }
 
 .q-cont{
-	padding: 40px 0;
-
-	span{
-		border-right: 1px dashed #fff;
-	}
+	padding: 40px 0px;
 
 	&:hover img{
 		animation-name: example;
@@ -355,6 +350,7 @@ a:hover{
 			padding-bottom: 10px;
 		}
 	}
+
 	.divider{
 		border: none;
 	}
